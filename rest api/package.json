@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-service",
+  "version": "1.0.0",
+  "description": "Create service using nodejs and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jirapas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.1"
+  }
+}
